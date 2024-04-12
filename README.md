@@ -13,7 +13,9 @@ I also enjoy building web browsers in C#.
 - VB.NET
 - HTML
 - Python
-[![GitHub contributions](https://github.com/ZoeyTheChicken)](https://github.com/ZoeyTheChicken)
+
+![GitHub Contributions](https://img.shields.io/github/commit-activity/m/zoeythechicken)
+
 ## Projects
 Here are some projects I own:
 - [Chicken Client's Installer](https://github.com/ChickenClient/Installer)
