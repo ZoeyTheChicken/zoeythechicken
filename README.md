@@ -1,8 +1,8 @@
 <img src="/logo.png">
 <br>
-### Wassup? I'm Zoey! A software dev. I mainly write programs in C# and VB.NET but I sometimes make stuff in Java, HTML, Python, and JavaScript.
+<h1>Wassup? I'm Zoey! A software dev. I mainly write programs in C# and VB.NET but I sometimes make stuff in Java, HTML, Python, and JavaScript.</h1>
 
-## Skills
+<h3>Skills</h3>
 - C#
 - JavaScript
 - Java
@@ -10,7 +10,7 @@
 - HTML
 - Python
 
-## Projects
+<h3>Projects</h3>
 Here are some projects I own.
 - [Chicken Client's Installer](https://github.com/ChickenClient/Installer)
 - [Chicken Client's Website](https://github.com/ChickenClient/Website)
