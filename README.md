@@ -4,7 +4,7 @@
 A software dev. I mainly write programs in C# and VB.NET but I sometimes make stuff in Java, HTML, Python, and JavaScript.
 I also enjoy building web browsers in C#.
 
-# I'm available rn if y'all yappers want a website or C# application, just keep it a bit simple. Don't ask for an entire game in C# and HTML please. I might make Python Games or Java games but no C#, HTML, etc. Join my discord linked in my profile and ask me when I'm **online**!
+### I'm available rn if y'all yappers want a website or C# application, just keep it a bit simple. Don't ask for an entire game in C# and HTML please. I might make Python Games or Java games but no C#, HTML, etc. Join my discord linked in my profile and ask me when I'm **online**!
 
 ## Skills
 - C#
