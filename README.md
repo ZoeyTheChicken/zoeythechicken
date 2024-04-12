@@ -2,6 +2,7 @@
 
 # Wassup? I'm Zoey! 👋
 A software dev. I mainly write programs in C# and VB.NET but I sometimes make stuff in Java, HTML, Python, and JavaScript.
+I also enjoy building web browsers in C#.
 
 ## Skills
 - C#
