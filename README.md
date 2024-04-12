@@ -13,7 +13,7 @@ I also enjoy building web browsers in C#.
 - VB.NET
 - HTML
 - Python
-
+[![GitHub contributions](https://github.com/ZoeyTheChicken)](https://github.com/ZoeyTheChicken)
 ## Projects
 Here are some projects I own:
 - [Chicken Client's Installer](https://github.com/ChickenClient/Installer)
