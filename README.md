@@ -14,7 +14,7 @@ I also enjoy building web browsers in C#.
 - HTML
 - Python
 
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/zoeythechicken)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoeythechicken)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 Here are some projects I own:
