@@ -22,9 +22,11 @@ I am a good coder of Minecraft plugins.
 - Kotlin
 - AppleScript
 - Python
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoeythechicken)](https://github.com/anuraghazra/github-readme-stats)
-
+## Social Media
+- YouTube: https://youtube.com/@ZoeyTheChicken
+- Discord: https://discord.com/channels/@me/810156066657796106
+- Twitter: https://x.com/ChickenNetMC
+- Discord Server: https://discord.gg/THf7JVmCj8
 ## Favorite projects I made
 - [Chicken Client](https://client.chickennet.work)
 - [Chicken Network](https://chickennet.work)
