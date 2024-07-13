@@ -1,18 +1,23 @@
 ![Logo](/logo.png)
 
-# Sup? I'm Zoey!👋
+# Sup yappers? It's me, Zoey! 👋
 
-I'm open to make HTML websites for free as long as you don't want a super advanced website, like a search engine.
-I also make native applications for Windows and macOS. Want a port of a site, lets say YouTube to a native app? I can do it.
-I am a good coder of Minecraft plugins.
+I make websites using HTML/CSS/JS
+I also code some cool things I come up with on random days using C#.
+I'm a C# dev who also uses VB.NET, Java, Swift, Kotlin, AppleScript, Python, and I am also learning some Lua.
+
+## Favorite projects I made
+- [Chicken Client](https://client.chickennet.work)
+- [Chicken Network](https://chickennet.work)
+- [Pearl](https://pearl-site.vercel.app)
 
 ## Favorite Languages
 - C#
-- AppleScript
 - HTML
 - Java
+- VB.NET
 
-## Skills
+## Languages
 - C#
 - JavaScript
 - Java
@@ -22,15 +27,13 @@ I am a good coder of Minecraft plugins.
 - Kotlin
 - AppleScript
 - Python
+- Lua
+  
 ## Social Media
 - YouTube: https://youtube.com/@ZoeyTheChicken
 - Discord: https://discord.com/users/810156066657796106
 - Twitter: https://x.com/ChickenNetMC
 - Discord Server: https://discord.gg/THf7JVmCj8
-## Favorite projects I made
-- [Chicken Client](https://client.chickennet.work)
-- [Chicken Network](https://chickennet.work)
-- [Pearl](https://pearl-site.vercel.app)
 
 Feel free to explore my repositories page because I have over 40 projects there!
 https://github.com/zoeythechicken/?tab=repositories
