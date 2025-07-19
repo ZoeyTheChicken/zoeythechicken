@@ -1,10 +1,8 @@
-![Logo](/logo.png)
-
-# Sup yappers? It's me, Zoey! 👋
+# Hey there! 👋
 
 I make websites using HTML/CSS/JS
-I also code some cool things I come up with on random days using C#.
-I'm a C# dev who also uses VB.NET, Java, Swift, Kotlin, AppleScript, Python, and I am also learning some Lua.
+I code things I randomly come up with in 10 seconds lmao
+Why is C# mean to me??
 
 ## Favorite projects I made
 - [Chicken Client](https://client.chickennet.work)
@@ -30,9 +28,8 @@ I'm a C# dev who also uses VB.NET, Java, Swift, Kotlin, AppleScript, Python, and
 - Lua
   
 ## Social Media
-- YouTube: https://youtube.com/@ZoeyTheChicken
+- YouTube: https://youtube.com/@zoeyaviation
 - Discord: https://discord.com/users/810156066657796106
-- Twitter: https://x.com/ChickenNetMC
 - Discord Server: https://discord.gg/THf7JVmCj8
 
 Feel free to explore my repositories page because I have over 40 projects there!
